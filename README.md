@@ -14,19 +14,18 @@ Currently learning and building projects while exploring data analytics, visuali
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode" />
 </p>
 
-- Python  
-- Pandas  
-- SQL  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- EDA  
-- Power BI  
-- Excel  
-- GitHub  
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black" />
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDA-Data%20Analysis-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
