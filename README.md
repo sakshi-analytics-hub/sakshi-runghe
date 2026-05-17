@@ -6,26 +6,50 @@
 
 ## 👩‍💻 About Me
 
-_"It’s not about the numbers, it’s about the story they tell."_
-
 I’m an aspiring Data Analyst and Data Science student passionate about transforming raw data into meaningful insights.  
-Currently learning and building projects using Python, SQL, and Excel while exploring data analytics, visualization, and problem-solving.
+Currently learning and building projects while exploring data analytics, visualization, and problem-solving.
 
 ---
 
 ## 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
+
+- Python  
+- Pandas  
+- SQL  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- EDA  
+- Power BI  
+- Excel  
+- GitHub  
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+- MySQL  
+- MongoDB  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-analytics-hub&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-analytics-hub&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-analytics-hub&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-analytics-hub&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -47,3 +71,8 @@ Currently learning and building projects using Python, SQL, and Excel while expl
 
 📧 sakshi.runghe2002@gmail.com
 
+---
+
+## ✨ Quote
+
+_"It’s not about collecting data, it’s about discovering meaning."_
