@@ -14,17 +14,43 @@ Currently learning and building projects while exploring data analytics, visuali
 ## 🚀 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode" />
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black" />
-<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EDA-Data%20Analysis-blue?style=for-the-badge" />
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge" />
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
@@ -32,11 +58,32 @@ Currently learning and building projects while exploring data analytics, visuali
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
 </p>
 
-- MySQL  
-- MongoDB  
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<a href="https://github.com/sakshi-analytics-hub">
+<img src="https://github-readme-stats.vercel.app/api?username=sakshi-analytics-hub&show_icons=true&theme=tokyonight" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/sakshi-analytics-hub">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-analytics-hub&layout=compact&theme=tokyonight" />
+</a>
+</p>
 
 ---
 
