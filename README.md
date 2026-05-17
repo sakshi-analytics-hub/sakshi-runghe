@@ -40,18 +40,6 @@ Currently learning and building projects while exploring data analytics, visuali
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi-analytics-hub&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-analytics-hub&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="left">
